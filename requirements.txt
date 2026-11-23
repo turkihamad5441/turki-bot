@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+yt-dlp
+Flask
+curl_cffi>=0.15,<0.16
+schedule
