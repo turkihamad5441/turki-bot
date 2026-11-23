@@ -5,3 +5,4 @@ gTTS
 qrcode[pil]
 Pillow
 requests
+curl_cffi>=0.15,<0.16
