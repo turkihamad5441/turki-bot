@@ -22,7 +22,7 @@ def start_scheduler(bot):
             except:
                 pass
 
-    schedule.every(4).hours.do(send_auto_adhkar) # كل 4 ساعات
+    schedule.every(4).hours.do(send_auto_adhkar)
     
     def run_schedule():
         while True:
