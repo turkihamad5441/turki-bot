@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+yt-dlp
+Flask
+gTTS
+qrcode[pil]
+Pillow
+requests
